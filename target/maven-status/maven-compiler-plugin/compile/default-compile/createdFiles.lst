@@ -1,0 +1,8 @@
+com\socialproject\controllers\SocialNetPostController.class
+com\socialproject\exceptions\GlobalExceptionHandler.class
+com\socialproject\services\ServiceImpl\SocialNetPostServiceImpl.class
+com\socialproject\exceptions\SocialPostNotFound.class
+com\socialproject\services\SocialNetPostService.class
+com\socialproject\entities\SocialNetworkPost.class
+com\socialproject\SocialProjectApplication.class
+com\socialproject\repositories\SocialNetworkPostRepo.class
